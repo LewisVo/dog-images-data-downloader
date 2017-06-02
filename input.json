@@ -1,0 +1,16 @@
+{
+    "table": [
+        {
+            "id": 1,
+            "breed": "South Russian Ovcharka",
+            "origin": "Russia",
+            "akcGroup": ""
+        },
+        {
+            "id": 2,
+            "breed": "Southern Hound",
+            "origin": "United Kingdom",
+            "akcGroup": "Extinct"
+        }
+    ]
+}
