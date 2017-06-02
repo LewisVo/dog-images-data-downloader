@@ -1,0 +1,15 @@
+{
+  "name": "bulk-image-downloader",
+  "version": "1.0.0",
+  "description": "This assists me with getting images I need from google",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luong Vo",
+  "license": "MIT",
+  "dependencies": {
+    "image-downloader": "^3.2.1",
+    "images-scraper": "^2.0.11"
+  }
+}
